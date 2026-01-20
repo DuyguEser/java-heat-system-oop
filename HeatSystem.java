@@ -1,0 +1,3 @@
+interface HeatSystem {
+    void heat();
+}
